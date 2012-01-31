@@ -1,0 +1,11 @@
+--headers["Content-type"]="text/html"
+--qs=pp[2]
+data=[[
+<html>
+<head><title>titulek</title></head>
+<body>
+<h1>OK</h1>
+</body>
+</html>
+]]
+echo(data)
